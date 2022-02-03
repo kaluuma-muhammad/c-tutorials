@@ -6,6 +6,7 @@ int main() {
 
     printf("Enter first name: ");
     scanf("%s", fname);
+    getchar();
 
     printf("Enter second name: ");
     scanf("%s", lname);
