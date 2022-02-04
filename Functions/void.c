@@ -19,6 +19,6 @@ int main() {
     int number;
     scanf("%d", &number);
     outputFactorial(number);
-    
-    return 0;
+
+    return 0; 
 }

@@ -1,6 +1,6 @@
 /*
     From my previous file multdiamentional arrays
-    Am going to refuctor my code for better understanding
+    Am going to refuctor my code for better understanding 
 */
 
 #include <stdio.h>
