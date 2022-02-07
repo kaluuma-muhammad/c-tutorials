@@ -6,12 +6,14 @@ int main() {
     char character;
     printf("Please enter a character: ");
     scanf("%c", &character);
+    getchar();
     printf("%i\n", character);
 
     // Integers to ASCII characters
     int number;
     printf("Please enter a value from 0 - 127: ");
     scanf("%i", &number);
+    getchar();
     printf("%c\n", number);
 
     // Maths with ASCII
@@ -20,6 +22,7 @@ int main() {
 
     printf("Please enter first character: ");
     scanf("%c", &value1);
+    getchar();
     printf("Please enter second character: ");
     scanf("%c", &value2);
 
